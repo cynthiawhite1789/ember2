@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Myproject
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# ember2
+>>>>>>> e5728fe3fe92ec819c2ef4d8bb771bf6fc3f2a6c
